@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Thigas
 
 - 💻 Cursando Sistemas de Informação ESPM TECH
-- 🔭 Concluído Desenvolvimento de Sistema Etec Barueri
 - 🌱 Estudando Docker, Java, ReactJS, JavaScript, NodeJS 
 - 😄 Pronouns: ele/dele
 
