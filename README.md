@@ -2,7 +2,7 @@
 
 - 💻 Cursando Sistemas de Informação ESPM TECH
 - 🔭 Concluído Desenvolvimento de Sistema Etec Barueri
-- 🌱 Estudando React-Native, ReactJS, JavaScript, Java, NodeJS 
+- 🌱 Estudando Docker, Java, ReactJS, JavaScript, NodeJS 
 - 😄 Pronouns: ele/dele
 
 <div align="center">
@@ -36,7 +36,5 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://github.com/ThiagoAlonso05/ThiagoAlonso05/blob/https/github.com/ThiagoAlonso05/245tp1/Alex%20Macedo%20-%20(Portugu%C3%AAs)%20CV.pdf">
   <img src="https://img.shields.io/badge/📄%20Resume-24292e?style=for-the-badge&labelColor=24292e" target="_blank"></a>
-
-  ![Snake animation](https://github.com/ThiagoAlonso05/ThiagoAlonso05/blob/output/github-contribution-grid-snake.svg)
     
   </div>
