@@ -2,7 +2,7 @@
 
 - 💻 Cursando Sistemas de Informação ESPM TECH
 - 🌱 Estudando React-Native, ReactJS, JavaScript, Java, NodeJS 
-- 😄 Pronouns: ele/dele?
+- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/ThiagoAlonso05">
@@ -23,7 +23,8 @@
   src="https://raw.githubusercontent.com/gilbarbara/logos/0fabdf6def45abdfa138996fc20392e8004ad0b9/logos/nextjs-icon.svg" />
   <img align="center" alt="Thiago-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Thiago-NextJS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-       <img align="right" alt="Fotinha-pic" height="150" style="border-radius:50px;" 
+       <img align="right" alt="Foto-Thiago" height="150" style="border-radius:50px;" 
+       src="https://avatars.githubusercontent.com/u/130579781?v=4" >
   </div>
 
  ##
