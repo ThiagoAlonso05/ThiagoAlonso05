@@ -25,7 +25,6 @@
   <img align="center" alt="Thiago-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Thiago-NextJS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
        <img align="right" alt="Fotinha-pic" height="150" style="border-radius:50px;" 
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pornhub-logo.svg/198px-Pornhub-logo.svg.png" >
   </div>
 
  ##
