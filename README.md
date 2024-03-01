@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Thigas
 
 - 💻 Cursando Sistemas de Informação ESPM TECH
-- 🌱 Estudando React-Native, ReactJS, JavaScript, Java, NodeJS 
+- 🌱 Estudando Java, Docker, ReactJS, JavaScript, NodeJS
 - 😄 Pronouns: ele/dele
 
 <div align="center">
