@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Thigas
 
 - 💻 Cursando Sistemas de Informação ESPM TECH
-- 🔭 Completei a página inical inteira do PORNHUB
 - 🌱 Estudando React-Native, ReactJS, JavaScript, Java, NodeJS 
 - 😄 Pronouns: ele/dele?
 
