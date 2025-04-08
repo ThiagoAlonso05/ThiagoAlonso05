@@ -2,7 +2,6 @@
 
 - 💻 Cursando Sistemas de Informação ESPM TECH
 - 🌱 Estudando Java, Docker, ReactJS, JavaScript, NodeJS
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/ThiagoAlonso05">
